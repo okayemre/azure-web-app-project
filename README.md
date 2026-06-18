@@ -16,8 +16,6 @@
 
 <br/>
 
-🔗 **Live Demo →** [webapp-3tier-mr.azurewebsites.net](https://webapp-3tier-mr-cqd4d0abavh4cqcz.swedencentral-01.azurewebsites.net)
-
 ---
 
 ## 👀 Preview
